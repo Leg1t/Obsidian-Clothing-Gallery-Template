@@ -1,6 +1,7 @@
 # Obsidian Wardrobe & Outfit Tracker
 
-A set of Obsidian templates using Dataview to manage clothing pieces, build outfits, and browse your wardrobe.
+A set of simple Obsidian templates using Dataview to manage clothing pieces, build outfits, and browse your wardrobe.
+Kept really simple on purpose this is not an auto outfit builder or smth, main purpose is to keep outfits together if you forget a piece etc.
 
 ## Prerequisites
 * **Dataview Plugin:** Must be installed and enabled in your Obsidian vault. Ensure "Enable JavaScript Queries" is turned on in the Dataview settings.
